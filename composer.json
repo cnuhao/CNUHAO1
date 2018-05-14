@@ -8,4 +8,9 @@
   "require-dev": {
     "heroku/heroku-buildpack-php": "*"
   }
+  "autoload-dev": {
+    "psr-4": {
+      "LINE\\Tests\\": "tests/"
+    }
+  }
 }
