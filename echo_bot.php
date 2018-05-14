@@ -16,7 +16,7 @@
  * under the License.
  */
 
-require_once('./LINEBotTiny.php');
+require_once('LINEBotTiny.php');
 
 $channelAccessToken = 'sXpXtvMAPlqVYu1YfXHtLdzSK7Htz3QrYfYEcGgxGbbe40JiwH0/qI5ymEmgJGjVWnK5YNMcajf6hIJVnmE6dN/ggw9pIL7QS+azlJvgH6/jiq9texZe+UZq30OZgAby4E2oY1xrKsFtD4otzZKEawdB04t89/1O/w1cDnyilFU=';
 $channelSecret = '32507a7780b3898758bbcc9efb52a739';
