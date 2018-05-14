@@ -7,7 +7,7 @@
   },
   "autoload": {
     "psr-4": {
-      "cnuhao\\": "cnuhao1"
+      "cnuhao\\": "cnuhao1/"
     }
   }
 }
