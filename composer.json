@@ -1,13 +1,11 @@
 {
-  "require": {
-    "php": ">=5.6",
-    "slim/slim": "^3.5.0",
-    "monolog/monolog": "^1.21.0",
-    "linecorp/line-bot-sdk": "1.5.0"
+  "require" : {
+    "silex/silex": "^2.0.4",
+    "monolog/monolog": "^1.22",
+    "twig/twig": "^2.0",
+    "symfony/twig-bridge": "^3"
   },
-  "autoload": {
-    "psr-4": {
-      "cnuhao\\": "cnuhao1"
-      }
-    }
+  "require-dev": {
+    "heroku/heroku-buildpack-php": "*"
+  }
 }
